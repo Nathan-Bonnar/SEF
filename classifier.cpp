@@ -1,7 +1,7 @@
 void train()
 {
     printf("train");
-    printf("the first feature is added");
+    printf("the second feature is added");
 }
 
 void perdict()
